@@ -1,0 +1,26 @@
+tis_desc	sarcoma	sarc_abbrev	sarc_desc	smts	smtsd	gtex
+Dedifferentiated liposarcoma	Dedifferentiated liposarcoma	DDLS	DDLS	Adipose Tissue	Adipose - Subcutaneous	Adipose
+Dedifferentiated liposarcoma	Dedifferentiated liposarcoma	DDLS	DDLS	Adipose Tissue	Adipose - Visceral (Omentum)	Adipose
+Leiomyosarcoma (LMS)	Leiomyosarcoma (LMS)	LMS	LMS	Uterus	Uterus	Uterus
+Leiomyosarcoma (LMS)	Leiomyosarcoma (LMS)	LMS	LMS	Esophagus	Esophagus - Muscularis	Muscularis
+Leiomyosarcoma (LMS)	Leiomyosarcoma (LMS)	LMS	LMS	Stomach	Stomach	Stomach
+Leiomyosarcoma (LMS)	Leiomyosarcoma (LMS)	LMS	LMS	Blood Vessel	Artery - Coronary	Vessels
+Leiomyosarcoma (LMS)	Leiomyosarcoma (LMS)	LMS	LMS	Blood Vessel	Artery - Tibial	Vessels
+Malignant Peripheral Nerve Sheath Tumors (MPNST)	Malignant Peripheral Nerve Sheath Tumors (MPNST)	MPNST	MPNST	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Adipose Tissue	Adipose - Subcutaneous	Adipose
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Adipose Tissue	Adipose - Visceral (Omentum)	Adipose
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Blood Vessel	Artery - Coronary	Vessels
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Blood Vessel	Artery - Tibial	Vessels
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Muscle	Muscle - Skeletal	Muscle
+Myxofibrosarcoma	Myxofibrosarcoma	MFS	MFS	Esophagus	Esophagus - Muscularis	Muscularis
+Undifferentiated Pleomorphic Sarcoma (UPS)	Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma	UPS	UPS_MFH	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Undifferentiated Pleomorphic Sarcoma (UPS)	Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma	UPS	UPS_MFH	Esophagus	Esophagus - Muscularis	Muscularis
+Undifferentiated Pleomorphic Sarcoma (UPS)	Giant cell 'MFH' / Undifferentiated pleomorphic sarcoma with giant cells	UPS	UPS_giant	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Undifferentiated Pleomorphic Sarcoma (UPS)	Giant cell 'MFH' / Undifferentiated pleomorphic sarcoma with giant cells	UPS	UPS_giant	Esophagus	Esophagus - Muscularis	Muscularis
+Undifferentiated Pleomorphic Sarcoma (UPS)	Undifferentiated Pleomorphic Sarcoma (UPS)	UPS	UPS	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Undifferentiated Pleomorphic Sarcoma (UPS)	Undifferentiated Pleomorphic Sarcoma (UPS)	UPS	UPS	Esophagus	Esophagus - Muscularis	Muscularis
+Synovial Sarcoma	Sarcoma; synovial; poorly differentiated	SS	SS_poor	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Synovial Sarcoma	Synovial Sarcoma - Biphasic	SS	SS_bi	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Synovial Sarcoma	Synovial Sarcoma - Monophasic	SS	SS_mono	Skin	Cells - Cultured fibroblasts	Fibroblasts
+Desmoid Tumor	Desmoid Tumor	DT	DT	Skin	Cells - Cultured fibroblasts	Fibroblasts
